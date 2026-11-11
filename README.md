@@ -25,9 +25,15 @@
 
 ## 프로젝트 / 랩 목록
 
-| 이름 | 주제 | 사용 기술 | 링크 |
+| # | 이름 | 주요 기술 | 상태 |
 |---|---|---|---|
-| <!-- 예: OSPF Multi-Area --> | | | |
+| 01 | [VLAN & Inter-VLAN Routing](labs/01-vlan-inter-vlan-routing/) | VLAN, 802.1Q Trunk, Router-on-a-stick, SVI | 🔲 진행 전 |
+| 02 | [STP & EtherChannel](labs/02-stp-etherchannel/) | Rapid PVST+, Root Bridge, BPDU Guard, LACP | 🔲 진행 전 |
+| 03 | [OSPF Single / Multi-Area](labs/03-ospf-multi-area/) | OSPF, ABR, LSA, 경로 요약 | 🔲 진행 전 |
+| 04 | [DHCP, NAT/PAT, ACL](labs/04-dhcp-nat-acl/) | DHCP Relay, PAT, Static NAT, Extended ACL | 🔲 진행 전 |
+| 05 | [HSRP](labs/05-hsrp/) | HSRP v2, Preempt, Interface Tracking | 🔲 진행 전 |
+
+> 상태 표기: 🔲 진행 전 · 🔄 진행 중 · ✅ 완료
 
 ## 자격증
 
