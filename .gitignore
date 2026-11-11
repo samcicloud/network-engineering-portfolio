@@ -1,0 +1,27 @@
+# Secrets
+.env
+*.pem
+*.key
+secrets/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Ansible
+*.retry
+
+# Large lab images (GNS3 / EVE-NG)
+*.qcow2
+*.vmdk
+*.iso
+*.bin
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
